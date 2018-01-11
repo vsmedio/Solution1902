@@ -1,5 +1,5 @@
 /* 
-Адаптер
+Адаптер...
 Используй класс AdapterFileOutputStream, чтобы адаптировать FileOutputStream к новому интерфейсу AmigoStringWriter.
 
 
